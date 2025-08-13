@@ -6,7 +6,7 @@ order: 4
 
 # About Me
 
-Hey 👋, I’m **Kelvin Oppong Agyemang** — also known online as **3ng1**.  
+Hey 👋, I’m **Kelvin Agyemang** — also known online as **3ng1**.  
 I’m a cybersecurity and cloud technology enthusiast with a growing passion for **CTFs**, penetration testing, and building secure, user-focused solutions.
 
 ---
@@ -43,7 +43,7 @@ If you enjoy CTFs, ethical hacking, or just geeking out over security tools, you
 ## Let’s Connect
 - **Email:** [kelvinenglish22@gmail.com](mailto:kelvinenglish22@gmail.com)  
 - **GitHub:** [3ng1](https://github.com/3ng1)  
-- **LinkedIn:** [Kelvin Oppong Agyemang](https://www.linkedin.com/in/kelvin-agyemang-227176239/)  
+- **LinkedIn:** [Kelvin Agyemang](https://www.linkedin.com/in/kelvin-agyemang-227176239/)  
 
 ---
 
