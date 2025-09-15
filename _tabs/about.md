@@ -14,13 +14,13 @@ I’m a cybersecurity and cloud technology enthusiast with a growing passion for
 ## What I Do
 - Explore offensive security techniques
 - Build and test secure systems
-- Solve CTF challenges on **HackTheBox**,**TryHackMe**,**PicoCTF**, and other platforms 
+- Solve CTF challenges on **HackTheBox**,**Hackviser**,**TryHackMe**,**PicoCTF**, and other platforms 
 - Share my learning journey through blog posts and projects here on GitHub Pages
 
 ---
 
 ## My Background
-I hold a **BSc in Information Technology** from the University of Cape Coast (Ghana), where I also led the Cybersecurity Club — organizing CTF events, security workshops, and awareness campaigns.
+I hold a **Bachelor's Degree in Information Technology** from the University of Cape Coast (Ghana), where I also led the Cybersecurity Club — organizing CTF events, security workshops, and awareness campaigns.
 
 Along the way, I’ve earned certifications like:
 - Certified Web Security Expert (**CWSE**)
