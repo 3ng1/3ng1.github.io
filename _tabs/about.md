@@ -23,6 +23,8 @@ I’m a cybersecurity and cloud technology enthusiast with a growing passion for
 I hold a **BSc in Information Technology** from the University of Cape Coast (Ghana), where I also led the Cybersecurity Club — organizing CTF events, security workshops, and awareness campaigns.
 
 Along the way, I’ve earned certifications like:
+- Certified Web Security Expert (**CWSE**)
+- Certified Red Team Analyst (**CRTA**)
 - Certified Associate Penetration Tester (**CAPT**)
 - Certified Network Security Practitioner (**CNSP**)
 - ISC2 Certified in Cybersecurity
